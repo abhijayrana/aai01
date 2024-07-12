@@ -1,0 +1,17 @@
+Assignment:
+Coding competition:
+Implement a heuristic agent (rule-based) in highway environment
+Use the configuration I shared below
+Push to your repo by Thursday night. I will use your code on Friday morning for evaluation.
+Update your repo taxonomy by organizing the content in folders.
+Push your LeetCode solutions from previous assignment into your repo.
+Env Config:
+config = {
+                "lanes_count": 4,
+                "vehicles_count": 50,
+                "duration": 100,  # [s]
+                "initial_spacing": 2,
+                "simulation_frequency": 15,  # [Hz]
+                "policy_frequency": 0.25,  # [Hz]
+                "render_agent": True,
+            } 
