@@ -28,7 +28,7 @@ env.configure({
     },
     "lanes_count": 4,
     "vehicles_count": 50,
-    "duration": 100,  # [seconds]
+    "duration": 100,  # [s]
     "initial_spacing": 2,
     "simulation_frequency": 15,  # [Hz]
     "policy_frequency": 0.25,  # [Hz]
